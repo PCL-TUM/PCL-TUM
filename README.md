@@ -1,7 +1,7 @@
 ![header](./header.png)
 
 ### 🌟 About Me :
-🌱 I’m currently learning more about Fullstack Developer.<br>🤔 I’m looking for help with Framework and New Technologies.<br>💬 Ask me about any web developer stuff.<br>📫 How to reach me: Email phichet.pcl@gmail.com<br>⚡ Fun fact: I like listening to sad songs but I'm a funny person.
+🌱 I’m currently learning more about Fullstack Developer.<br>🤔 I’m looking for help with Framework and New Technologies.<br>💬 Ask me about any web developer stuff.<br>📫 How to reach me : Email phichet.pcl@gmail.com<br>⚡ Fun fact: I like listening to sad songs but I'm a funny person.
 
 
 
